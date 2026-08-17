@@ -21,12 +21,12 @@ Sempre em busca de um novo desafio!
 ### Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<!--![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)-->
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<!--### APIs & Protocolos
+### APIs & Protocolos
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-0B3D91?style=for-the-badge&logo=http&logoColor=white)-->
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-0B3D91?style=for-the-badge&logo=http&logoColor=white)
 
 
 ### Bancos de Dados
@@ -55,7 +55,7 @@ Sempre em busca de um novo desafio!
 ![MVC](https://img.shields.io/badge/MVC-43853D?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Sistemas & Ferramentas de Produtividade
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)-->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
@@ -83,8 +83,8 @@ Sempre em busca de um novo desafio!
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMascarello&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMascarello&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMascarello&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
